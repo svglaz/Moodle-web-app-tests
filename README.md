@@ -1,3 +1,1 @@
-# seleniumaws
-
-Test
+# Moodle-web-app-tests
